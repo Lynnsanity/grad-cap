@@ -7,5 +7,7 @@ A lot of my code is based off his scripts in [here](https://github.com/IdreesInc
 
 But, the bash script and crontab to keep the scripts running, even when the device is rebooted, was my idea c:
 
-![cewl video of ma cap](video/grad-cap.mp4)
+![cewl video of ma cap](cap-irl/grad-cap.mp4)
+
+![hey das me](cap-irl/uwsp-cap.png)
 
